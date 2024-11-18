@@ -1,4 +1,4 @@
-#<html>
+<html>
     <body>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
